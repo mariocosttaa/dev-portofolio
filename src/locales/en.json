@@ -1,0 +1,121 @@
+{
+    "nav": {
+        "work": "Work",
+        "projects": "Projects",
+        "about": "About",
+        "education": "Education",
+        "skills": "Skills",
+        "contact": "Contact"
+    },
+    "hero": {
+        "available": "Available for work",
+        "viewWork": "View My Work",
+        "letsTalk": "Let's Talk",
+        "viewCV": "View CV",
+        "download": "Download",
+        "scroll": "Scroll",
+        "yearsExperience": "Years of Experience",
+        "buildingProduction": "Building production-ready applications",
+        "projectsDelivered": "Projects Delivered",
+        "saasProducts": "SaaS Products",
+        "techStack": "Tech Stack",
+        "basedIn": "Based in",
+        "title": "Senior Backend & Fullstack Developer",
+        "subtitle": "crafting digital experiences",
+        "description": "Over 6 years delivering custom digital solutions for businesses. Specializing in CRMs, ERPs, SaaS platforms, APIs, dashboards, and workflow automations."
+    },
+    "about": {
+        "title": "About Me",
+        "storyBehind": "The story",
+        "behindCode": "behind the code",
+        "education": "Education",
+        "experience": "Experience",
+        "viewDetails": "View details",
+        "viewCertificate": "View certificate",
+        "certification": "Certification",
+        "license": "License",
+        "bachelor": "Bachelor's Degree",
+        "master": "Master's Degree",
+        "phd": "PhD",
+        "diploma": "Diploma",
+        "intro": "Senior Backend & Fullstack Developer with over 6 years of experience delivering custom digital solutions for businesses. I entered the tech world young out of curiosity and a drive to understand how things work—and how to make them better.",
+        "specialization": "I specialize in building CRMs, ERPs, SaaS platforms, APIs, dashboards, landing pages, and workflow automations that streamline operations and increase team efficiency.",
+        "journey": "I stay current with modern engineering practices, continuously testing new tools and technologies to deliver scalable, reliable, and high-performance solutions. My journey includes founding Bindamy Solutions, where I've built and launched multiple SaaS products and automation tools powering real businesses."
+    },
+    "skills": {
+        "title": "Technical Skills",
+        "toolsTechnologies": "Tools & Technologies",
+        "comprehensiveToolkit": "A comprehensive toolkit built over {{years}}+ years of crafting digital solutions",
+        "areasOfExpertise": "Areas of Expertise"
+    },
+    "work": {
+        "title": "Featured Work",
+        "projectsContributions": "Projects & Contributions",
+        "selectionShowcase": "A selection of projects that showcase my expertise in building scalable, production-ready applications.",
+        "viewAllProjects": "View All Projects",
+        "openSource": "Open Source",
+        "viewAllOnGitHub": "View all on GitHub",
+        "clickToViewDetails": "Click to view details",
+        "unavailable": "Unavailable",
+        "visitProject": "Visit Project",
+        "projectUnavailable": "Project Unavailable"
+    },
+    "projects": {
+        "allProjects": "All Projects",
+        "myProjects": "My Projects",
+        "comprehensiveCollection": "A comprehensive collection of my work, from commercial SaaS platforms to open-source contributions",
+        "commercialProjects": "Commercial Projects",
+        "featuredWork": "Featured Work",
+        "productionReady": "Production-ready applications and SaaS platforms built for real businesses",
+        "openSourceContributions": "Open Source Contributions",
+        "publicRepositories": "Public repositories and tools shared with the developer community",
+        "searchProjects": "Search projects...",
+        "category": "Category",
+        "all": "All",
+        "commercial": "Commercial",
+        "openSource": "Open Source",
+        "technology": "Technology",
+        "clearAll": "Clear All",
+        "search": "Search",
+        "noCommercialProjects": "No commercial projects found using {{tech}}",
+        "noProjectsToDisplay": "No projects to display",
+        "noOpenSourceProjects": "No open source projects found{{search}}{{tech}}",
+        "matching": " matching \"{{query}}\"",
+        "using": " using {{tech}}",
+        "clearFilters": "Clear filters",
+        "clickForDetails": "Click for details",
+        "project": "project",
+        "projects": "projects"
+    },
+    "contact": {
+        "title": "Get In Touch",
+        "letsBuild": "Let's build something great",
+        "openToOpportunities": "I'm currently open to new opportunities and interesting projects. Whether you have a question or just want to say hi, I'll do my best to get back to you!",
+        "curriculumVitae": "Curriculum Vitae",
+        "english": "English",
+        "pdf": "PDF",
+        "previewCV": "Preview CV",
+        "downloadPDF": "Download PDF",
+        "emailMe": "Email Me",
+        "emailDescription": "mariocostaa6@gmail.com",
+        "letsConnect": "Let's connect",
+        "checkMyCode": "Check my code"
+    },
+    "footer": {
+        "builtWith": "Built with",
+        "by": "by",
+        "allRightsReserved": "All rights reserved"
+    },
+    "notFound": {
+        "title": "404",
+        "message": "Oops! Page not found",
+        "returnHome": "Return to Home"
+    },
+    "cv": {
+        "title": "Mário Costa - Curriculum Vitae",
+        "subtitle": "Resume / CV",
+        "description": "My professional resume and curriculum vitae in English",
+        "institution": "Professional Resume",
+        "type": "Resume"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Let's build something great",
+    "description": "I'm currently open to new opportunities and interesting projects. Whether you have a question or just want to say hi, I'll do my best to get back to you!",
+    "methods": [{
+            "id": "email",
+            "type": "email",
+            "label": "Email Me",
+            "value": "mariocostaa6@gmail.com",
+            "href": "mailto:mariocostaa6@gmail.com",
+            "icon": "Mail",
+            "color": "primary",
+            "description": "mariocostaa6@gmail.com"
+        },
+        {
+            "id": "linkedin",
+            "type": "social",
+            "label": "LinkedIn",
+            "value": "Let's connect",
+            "href": "https://www.linkedin.com/in/mariocosttaa",
+            "icon": "Linkedin",
+            "color": "secondary",
+            "description": "Let's connect"
+        },
+        {
+            "id": "github",
+            "type": "social",
+            "label": "GitHub",
+            "value": "Check my code",
+            "href": "https://github.com/mariocosttaa",
+            "icon": "Github",
+            "color": "accent",
+            "description": "Check my code"
+        }
+    ]
+}

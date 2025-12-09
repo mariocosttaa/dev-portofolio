@@ -76,8 +76,6 @@
 
 ![Portfolio Preview](./presentation.gif)
 
-**Live Demo:** [View Portfolio](https://your-portfolio-url.com) *(Update with your actual URL)*
-
 </div>
 
 ---

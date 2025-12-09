@@ -1,0 +1,33 @@
+{
+    "name": {
+        "first": "Mário",
+        "last": "Costa",
+        "full": "Mário Costa",
+        "initials": "MC"
+    },
+    "title": "Desenvolvedor Backend & Fullstack Sénior",
+    "subtitle": "criando experiências digitais",
+    "description": "Mais de 6 anos a entregar soluções digitais personalizadas para empresas. Especializado em CRMs, ERPs, plataformas SaaS, APIs, dashboards e automação de fluxos de trabalho.",
+    "location": {
+        "city": "Lisboa",
+        "country": "Portugal",
+        "full": "Lisboa, Portugal"
+    },
+    "languages": ["🇵🇹 Português (Nativo)", "🇬🇧 Inglês (B2-C1)"],
+    "availability": {
+        "status": "Disponível para trabalho",
+        "freelance": true,
+        "fulltime": true
+    },
+    "social": {
+        "github": "https://github.com/mariocosta",
+        "linkedin": "https://linkedin.com/in/mariocosta",
+        "email": "mariocostaa6@gmail.com"
+    },
+    "stats": {
+        "yearsExperience": 6,
+        "projectsDelivered": 50,
+        "saasProducts": 10
+    },
+    "techStack": ["Laravel", "React", "Python", "Ruby on Rails", "Docker", "PostgreSQL", "TypeScript", "Vue.js"]
+}

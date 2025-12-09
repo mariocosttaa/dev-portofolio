@@ -16,18 +16,6 @@
 
 ---
 
-## 🎬 Preview
-
-<div align="center">
-
-![Portfolio Preview](./presentation.gif)
-
-**Live Demo:** [View Portfolio](https://your-portfolio-url.com) *(Update with your actual URL)*
-
-</div>
-
----
-
 ## ✨ Features
 
 - 🌐 **Multilingual Support** - Full Portuguese and English translations

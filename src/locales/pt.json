@@ -1,0 +1,121 @@
+{
+    "nav": {
+        "work": "Trabalho",
+        "projects": "Projetos",
+        "about": "Sobre",
+        "education": "Educação",
+        "skills": "Competências",
+        "contact": "Contacto"
+    },
+    "hero": {
+        "available": "Disponível para trabalho",
+        "viewWork": "Ver Meu Trabalho",
+        "letsTalk": "Vamos Conversar",
+        "viewCV": "Ver CV",
+        "download": "Descarregar",
+        "scroll": "Deslizar",
+        "yearsExperience": "Anos de Experiência",
+        "buildingProduction": "Construindo aplicações prontas para produção",
+        "projectsDelivered": "Projetos Entregues",
+        "saasProducts": "Produtos SaaS",
+        "techStack": "Stack Tecnológico",
+        "basedIn": "Baseado em",
+        "title": "Desenvolvedor Sénior Backend & Fullstack",
+        "subtitle": "criando experiências digitais",
+        "description": "Mais de 6 anos a entregar soluções digitais personalizadas para empresas. Especialização em CRMs, ERPs, plataformas SaaS, APIs, dashboards e automações de fluxo de trabalho."
+    },
+    "about": {
+        "title": "Sobre Mim",
+        "storyBehind": "A história",
+        "behindCode": "por trás do código",
+        "education": "Educação",
+        "experience": "Experiência",
+        "viewDetails": "Ver detalhes",
+        "viewCertificate": "Ver certificado",
+        "certification": "Certificação",
+        "license": "Licença",
+        "bachelor": "Licenciatura",
+        "master": "Mestrado",
+        "phd": "Doutoramento",
+        "diploma": "Diploma",
+        "intro": "Desenvolvedor Sénior Backend & Fullstack com mais de 6 anos de experiência a entregar soluções digitais personalizadas para empresas. Entrei no mundo tecnológico jovem por curiosidade e vontade de entender como as coisas funcionam—e como melhorá-las.",
+        "specialization": "Especializo-me na construção de CRMs, ERPs, plataformas SaaS, APIs, dashboards, páginas de destino e automações de fluxo de trabalho que simplificam operações e aumentam a eficiência das equipas.",
+        "journey": "Mantenho-me atualizado com práticas de engenharia modernas, testando continuamente novas ferramentas e tecnologias para entregar soluções escaláveis, confiáveis e de alto desempenho. A minha jornada inclui a fundação da Bindamy Solutions, onde construí e lancei múltiplos produtos SaaS e ferramentas de automação que alimentam empresas reais."
+    },
+    "skills": {
+        "title": "Competências Técnicas",
+        "toolsTechnologies": "Ferramentas e Tecnologias",
+        "comprehensiveToolkit": "Um conjunto completo de ferramentas construído ao longo de {{years}}+ anos criando soluções digitais",
+        "areasOfExpertise": "Áreas de Especialização"
+    },
+    "work": {
+        "title": "Trabalho em Destaque",
+        "projectsContributions": "Projetos e Contribuições",
+        "selectionShowcase": "Uma seleção de projetos que demonstram a minha experiência na construção de aplicações escaláveis e prontas para produção.",
+        "viewAllProjects": "Ver Todos os Projetos",
+        "openSource": "Open Source",
+        "viewAllOnGitHub": "Ver tudo no GitHub",
+        "clickToViewDetails": "Clique para ver detalhes",
+        "unavailable": "Indisponível",
+        "visitProject": "Visitar Projeto",
+        "projectUnavailable": "Projeto Indisponível"
+    },
+    "projects": {
+        "allProjects": "Todos os Projetos",
+        "myProjects": "Meus Projetos",
+        "comprehensiveCollection": "Uma coleção completa do meu trabalho, desde plataformas SaaS comerciais até contribuições open-source",
+        "commercialProjects": "Projetos Comerciais",
+        "featuredWork": "Trabalho em Destaque",
+        "productionReady": "Aplicações prontas para produção e plataformas SaaS construídas para empresas reais",
+        "openSourceContributions": "Contribuições Open Source",
+        "publicRepositories": "Repositórios públicos e ferramentas partilhadas com a comunidade de programadores",
+        "searchProjects": "Pesquisar projetos...",
+        "category": "Categoria",
+        "all": "Todos",
+        "commercial": "Comercial",
+        "openSource": "Open Source",
+        "technology": "Tecnologia",
+        "clearAll": "Limpar Tudo",
+        "search": "Pesquisar",
+        "noCommercialProjects": "Nenhum projeto comercial encontrado usando {{tech}}",
+        "noProjectsToDisplay": "Nenhum projeto para exibir",
+        "noOpenSourceProjects": "Nenhum projeto open source encontrado{{search}}{{tech}}",
+        "matching": " correspondendo a \"{{query}}\"",
+        "using": " usando {{tech}}",
+        "clearFilters": "Limpar filtros",
+        "clickForDetails": "Clique para detalhes",
+        "project": "projeto",
+        "projects": "projetos"
+    },
+    "contact": {
+        "title": "Entre em Contacto",
+        "letsBuild": "Vamos construir algo grande",
+        "openToOpportunities": "Estou atualmente aberto a novas oportunidades e projetos interessantes. Se tiver uma pergunta ou apenas quiser dizer olá, farei o meu melhor para responder!",
+        "curriculumVitae": "Curriculum Vitae",
+        "english": "Inglês",
+        "pdf": "PDF",
+        "previewCV": "Pré-visualizar CV",
+        "downloadPDF": "Descarregar PDF",
+        "emailMe": "Enviar Email",
+        "emailDescription": "mariocostaa6@gmail.com",
+        "letsConnect": "Vamos conectar",
+        "checkMyCode": "Ver o meu código"
+    },
+    "footer": {
+        "builtWith": "Construído com",
+        "by": "por",
+        "allRightsReserved": "Todos os direitos reservados"
+    },
+    "notFound": {
+        "title": "404",
+        "message": "Oops! Página não encontrada",
+        "returnHome": "Voltar ao Início"
+    },
+    "cv": {
+        "title": "Mário Costa - Curriculum Vitae",
+        "subtitle": "Resumo / CV",
+        "description": "O meu currículo profissional e curriculum vitae em inglês",
+        "institution": "Resumo Profissional",
+        "type": "Resumo"
+    }
+}

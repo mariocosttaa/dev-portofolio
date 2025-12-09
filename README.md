@@ -16,6 +16,16 @@
 
 ---
 
+## 🎬 Preview
+
+<div align="center">
+
+![Portfolio Preview](./presentation.gif)
+
+</div>
+
+---
+
 ## ✨ Features
 
 - 🌐 **Multilingual Support** - Full Portuguese and English translations
@@ -68,17 +78,6 @@
 - ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?logo=postcss) **PostCSS 8.5.6** - CSS processing
 - ![Autoprefixer](https://img.shields.io/badge/-Autoprefixer-DD3735?logo=autoprefixer) **Autoprefixer 10.4.21** - CSS vendor prefixes
 
----
-
-## 🎬 Preview
-
-<div align="center">
-
-![Portfolio Preview](./presentation.gif)
-
-</div>
-
----
 
 ## 🎯 Key Highlights
 

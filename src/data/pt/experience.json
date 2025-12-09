@@ -1,0 +1,224 @@
+{
+    "about": {
+        "intro": "Desenvolvedor Backend & Fullstack Sénior com mais de 6 anos de experiência na entrega de soluções digitais personalizadas para empresas. Entrei no mundo da tecnologia jovem, movido pela curiosidade e vontade de entender como as coisas funcionam—e como torná-las melhores.",
+        "specialization": "Especializo-me na construção de CRMs, ERPs, plataformas SaaS, APIs, dashboards, landing pages e automações de fluxo de trabalho que otimizam operações e aumentam a eficiência das equipas.",
+        "journey": "Mantenho-me atualizado com as práticas modernas de engenharia, testando continuamente novas ferramentas e tecnologias para entregar soluções escaláveis, fiáveis e de alto desempenho. A minha jornada inclui a fundação da Bindamy Solutions, onde construí e lancei múltiplos produtos SaaS e ferramentas de automação que impulsionam empresas reais."
+    },
+    "work": [{
+            "id": "bindamy-solutions",
+            "title": "Fundador & CEO / Arquiteto de Software Principal",
+            "company": "Bindamy Solutions",
+            "period": "2024 - Presente",
+            "highlights": ["Múltiplos produtos SaaS", "Motores de workflow", "Integrações de IA", "Microsserviços", "Multi-tenancy", "Sistemas de subscrição"],
+            "longDescription": "Bindamy Solutions é uma empresa de soluções digitais que cria experiências digitais para impulsionar o crescimento dos negócios. A empresa oferece websites de nível empresarial, aplicações e sistemas de automação, fazendo parceria com empresas ambiciosas para construir tecnologia que escala. Esta landing page apresenta os serviços, portfólio, tecnologias e ecossistema de parceiros da empresa. Construída com React 19.2.1, TypeScript 5.8.3, Vite 5.4.19, TailwindCSS 3.4.17, componentes shadcn/ui, i18next para internacionalização (Inglês/Português), React Query para gestão de estado e React Router para navegação. O website apresenta suporte multi-idioma com deteção automática, design responsivo mobile-first, componentes UI modernos, formulários de contacto com validação, integração WhatsApp, showcase de portfólio, secção de parceiros, serviços (Desenvolvimento Web, Arquitetura de Sistemas, Automação, Estratégia Digital) e informações completas da empresa. A empresa entregou 150+ projetos com 98% de satisfação do cliente, servindo 50+ clientes empresariais com 5+ anos de excelência.",
+            "role": "Fundador, CEO & Lead Developer",
+            "responsibilities": [
+                "Desenhei e desenvolvi a landing page completa da empresa com React 19 e TypeScript",
+                "Implementei suporte multi-idioma com i18next (Inglês e Português)",
+                "Construí UI responsiva com TailwindCSS e biblioteca de componentes shadcn/ui",
+                "Criei sistema de formulário de contacto com validação React Hook Form e Zod",
+                "Integrei botão flutuante do WhatsApp para contacto rápido com clientes",
+                "Desenvolvi secção de showcase de portfólio exibindo projetos de clientes",
+                "Construí secção de parceiros/confiança com logótipos de tecnologia e clientes",
+                "Implementei secção de serviços apresentando as ofertas da empresa",
+                "Criei secção sobre destacando os valores e abordagem da empresa",
+                "Configurei React Query para gestão eficiente de dados",
+                "Configurei sistema de build Vite para desempenho ideal",
+                "Implementei estrutura amigável para SEO com meta tags adequadas",
+                "Adicionei animações e transições suaves com TailwindCSS",
+                "Assegurei acessibilidade e design responsivo em todos os dispositivos"
+            ],
+            "achievements": [
+                "Landing page moderna e profissional apresentando a Bindamy Solutions como uma empresa de soluções digitais",
+                "Suporte multi-idioma permitindo à empresa servir clientes internacionais",
+                "Design totalmente responsivo garantindo excelente experiência de utilizador em todos os dispositivos",
+                "Showcase de portfólio abrangente exibindo 150+ projetos entregues",
+                "Sistema de contacto com validação de formulário e integração WhatsApp para geração de leads",
+                "Apresentação profissional dos serviços, tecnologias e parceiros da empresa",
+                "Desempenho rápido com sistema de build Vite e otimizações React 19",
+                "Implementação amigável para SEO para melhor visibilidade nos motores de busca",
+                "Stack tecnológico moderno demonstrando a experiência técnica da empresa",
+                "Website pronto para produção implementado em bindamy.site"
+            ],
+            "challenges": [
+                "Criar uma landing page que comunique eficazmente a proposta de valor e serviços da empresa",
+                "Implementar suporte multi-idioma com deteção automática e troca perfeita",
+                "Construir design responsivo que funcione perfeitamente em telemóvel, tablet e desktop",
+                "Integrar múltiplos serviços de terceiros (WhatsApp, formulários de contacto, analítica)",
+                "Exibir projetos de portfólio dinamicamente mantendo o desempenho",
+                "Desenhar UI que reflita o profissionalismo e experiência técnica da empresa",
+                "Garantir tempos de carregamento rápidos com ferramentas de build modernas e otimização",
+                "Criar componentes acessíveis que funcionem para todos os utilizadores",
+                "Gerir conteúdo através de ficheiros JSON para atualizações fáceis",
+                "Equilibrar estética de design com requisitos funcionais"
+            ],
+            "results": [
+                "Landing page profissional representando com sucesso a Bindamy Solutions como uma empresa de soluções digitais",
+                "Website multi-idioma permitindo à empresa servir mercados de língua inglesa e portuguesa",
+                "Design responsivo garantindo excelente experiência de utilizador em todos os dispositivos e tamanhos de ecrã",
+                "Geração eficaz de leads através de formulários de contacto e integração WhatsApp",
+                "Showcase de portfólio abrangente demonstrando as capacidades e histórico da empresa",
+                "Stack tecnológico moderno exibindo a experiência técnica da empresa a potenciais clientes",
+                "Website rápido e otimizado proporcionando excelente desempenho e experiência de utilizador",
+                "Implementação amigável para SEO melhorando a visibilidade e descoberta online",
+                "Website pronto para produção implementado e servindo como presença online primária da empresa",
+                "Apresentação profissional dos serviços, tecnologias, parceiros e conquistas da empresa"
+            ]
+        },
+        {
+            "id": "horariux",
+            "title": "Desenvolvedor Fullstack Sénior / Arquiteto SaaS",
+            "company": "Horariux",
+            "period": "Ago 2022 - Dez 2024",
+            "highlights": ["SaaS de grande escala", "Integrações WhatsApp", "Gateways de pagamento", "Agendamento em tempo real", "Laravel", "Livewire"],
+            "longDescription": "Liderei a arquitetura de um SaaS de automação de agendamentos em larga escala servindo restaurantes, salões e empresas de serviços. Desenvolvi módulos de negócio principais usando Laravel, Blade, Alpine.js, Livewire e Javascript com Docker. Construí agendamento em tempo real, automações de mensagens e integrações oficiais com API Não Oficial do WhatsApp e múltiplos gateways de pagamento.",
+            "role": "Desenvolvedor Fullstack Sénior / Arquiteto SaaS",
+            "responsibilities": [
+                "Liderei a arquitetura de SaaS de automação de agendamentos de grande escala",
+                "Desenvolvi módulos de negócio principais usando Laravel, Blade, Alpine.js, Livewire e Javascript",
+                "Construí automações de agendamento e mensagens em tempo real",
+                "Implementei integrações oficiais com API Não Oficial do WhatsApp",
+                "Integrei múltiplos gateways de pagamento",
+                "Geri infraestrutura baseada em Docker e implementação"
+            ],
+            "achievements": [
+                "Arquitetei e entreguei com sucesso plataforma SaaS de grande escala",
+                "Construí sistema abrangente de automação de agendamentos",
+                "Integrei múltiplos gateways de pagamento para transações perfeitas",
+                "Desenvolvi sistemas de agendamento e mensagens em tempo real"
+            ],
+            "challenges": [
+                "Escalar arquitetura para servir restaurantes, salões e empresas de serviços",
+                "Gerir automações de agendamento e mensagens em tempo real",
+                "Integrar com API Não Oficial do WhatsApp de forma fiável",
+                "Lidar com múltiplas integrações de gateways de pagamento"
+            ],
+            "results": [
+                "Plataforma SaaS de grande escala servindo com sucesso múltiplos tipos de negócios",
+                "Automações de agendamento e mensagens em tempo real melhorando a experiência do cliente",
+                "Múltiplas integrações de gateways de pagamento permitindo opções de pagamento flexíveis",
+                "Infraestrutura baseada em Docker garantindo implementação escalável e fiável"
+            ]
+        },
+        {
+            "id": "mingaxi",
+            "title": "Desenvolvedor Backend Sénior → Engenheiro Fullstack Principal",
+            "company": "Grupo Mingaxi",
+            "period": "Jan 2019 - Jul 2022",
+            "highlights": ["Liderança de equipa", "Arquitetura de sistemas", "DevOps", "Sistemas hoteleiros", "Sistemas financeiros", "Ruby on Rails"],
+            "longDescription": "Desenvolvi sistemas hoteleiros, financeiros e de automação usando Laravel, Ruby on Rails e operações otimizadas baseadas em SQL/Redis. Arquitetei APIs, dashboards e fluxos de trabalho de automação que melhoraram a eficiência operacional interna. Liderei uma pequena equipa de desenvolvimento, introduzi padrões de codificação modernos e melhorei o desempenho do sistema através de Docker e arquitetura de filas.",
+            "role": "Desenvolvedor Backend Sénior → Engenheiro Fullstack Principal",
+            "responsibilities": [
+                "Desenvolvi sistemas hoteleiros, financeiros e de automação usando Laravel e Ruby on Rails",
+                "Otimizei operações baseadas em SQL/Redis para melhor desempenho",
+                "Arquitetei APIs, dashboards e fluxos de trabalho de automação",
+                "Liderei uma pequena equipa de desenvolvimento",
+                "Introduzi padrões de codificação modernos",
+                "Melhorei o desempenho do sistema através de Docker e arquitetura de filas"
+            ],
+            "achievements": [
+                "Desenvolvi com sucesso sistemas hoteleiros, financeiros e de automação",
+                "Melhorei a eficiência operacional interna através de fluxos de trabalho de automação",
+                "Introduzi padrões de codificação modernos à equipa",
+                "Melhorei o desempenho do sistema com Docker e arquitetura de filas"
+            ],
+            "challenges": [
+                "Gerir múltiplos sistemas (hoteleiro, financeiro, automação) simultaneamente",
+                "Otimizar operações baseadas em SQL/Redis para desempenho",
+                "Liderar equipa mantendo a qualidade do código",
+                "Equilibrar desenvolvimento de funcionalidades com otimização do sistema"
+            ],
+            "results": [
+                "Melhoria da eficiência operacional interna através de automação",
+                "Estabelecimento de padrões de codificação modernos e melhores práticas",
+                "Desempenho do sistema melhorado com Docker e arquitetura de filas",
+                "Entrega bem-sucedida de sistemas hoteleiros, financeiros e de automação"
+            ]
+        },
+        {
+            "id": "vandervaart",
+            "title": "Desenvolvedor Fullstack (Remoto)",
+            "company": "Vandervaart",
+            "period": "Jan 2019 - Mar 2020",
+            "highlights": ["Equipa internacional", "Agile/Scrum", "Ruby on Rails", "React", "Automação Python"],
+            "longDescription": "Trabalhei como Desenvolvedor Fullstack (Remoto) numa equipa internacional baseada em Amesterdão, Países Baixos. Entreguei ferramentas de automação interna, dashboards e funcionalidades fullstack usando Ruby on Rails e React, também com Python para scripts automatizados. Colaborei com equipas internacionais sob práticas Agile/Scrum, melhorando a velocidade de entrega e a qualidade do código.",
+            "role": "Desenvolvedor Fullstack (Remoto)",
+            "responsibilities": [
+                "Entreguei ferramentas de automação interna, dashboards e funcionalidades fullstack usando Ruby on Rails e React",
+                "Desenvolvi scripts Python para tarefas de automação",
+                "Colaborei com equipas internacionais sob práticas Agile/Scrum",
+                "Otimizei pipelines de backend e frontend",
+                "Melhorei tempos de carregamento e experiência do utilizador para aplicações voltadas para o cliente"
+            ],
+            "achievements": [
+                "Melhoria da velocidade de entrega e qualidade do código",
+                "Melhoria dos tempos de carregamento e experiência do utilizador",
+                "Entrega bem-sucedida de ferramentas de automação e dashboards"
+            ],
+            "challenges": [
+                "Trabalhar em diferentes fusos horários com equipa internacional",
+                "Otimizar desempenho para aplicações voltadas para o cliente",
+                "Equilibrar múltiplas tecnologias (Ruby on Rails, React, Python)"
+            ],
+            "results": [
+                "Integração bem-sucedida em equipa internacional",
+                "Entrega consistente de código de qualidade",
+                "Ganho de experiência valiosa em colaboração remota"
+            ]
+        },
+        {
+            "id": "avagroup",
+            "title": "Desenvolvedor Fullstack (Remoto)",
+            "company": "AVAGroup",
+            "period": "Jan 2018",
+            "highlights": ["Liderança de equipa", "Gestão de eventos", "Desenvolvimento de plataformas", "Organização sem fins lucrativos"],
+            "longDescription": "Progressei de simples membro para Desenvolvedor e eventualmente CEO, liderando equipas, operações, relações com parceiros e crescimento da comunidade dentro da organização. Desenhei e mantive plataformas internas, sistemas de gestão de eventos e ferramentas relacionadas com simulação usadas por pilotos e staff. Liderei eventos nacionais de simuladores, assegurei conformidade com padrões de segurança e certificação, e coordenei parcerias com organizações incluindo TAAG Virtual.",
+            "role": "Desenvolvedor Fullstack (Remoto)",
+            "responsibilities": [
+                "Progressei de membro para Desenvolvedor e eventualmente CEO",
+                "Liderei equipas, operações, relações com parceiros e crescimento da comunidade",
+                "Desenhei e mantive plataformas internas e sistemas de gestão de eventos",
+                "Desenvolvi ferramentas relacionadas com simulação usadas por pilotos e staff",
+                "Liderei eventos nacionais de simuladores",
+                "Assegurei conformidade com padrões de segurança e certificação",
+                "Coordenei parcerias com organizações incluindo TAAG Virtual"
+            ],
+            "achievements": [
+                "Progressão bem-sucedida de membro para CEO dentro da organização",
+                "Liderança de eventos nacionais de simuladores",
+                "Design e manutenção de plataformas internas e sistemas de gestão de eventos",
+                "Coordenação de parcerias com organizações incluindo TAAG Virtual"
+            ],
+            "challenges": [
+                "Liderar equipas e operações como CEO de organização sem fins lucrativos",
+                "Assegurar conformidade com padrões de segurança e certificação",
+                "Coordenar parcerias e gerir crescimento da comunidade",
+                "Desenhar e manter múltiplos sistemas (plataformas, gestão de eventos, ferramentas de simulação)"
+            ],
+            "results": [
+                "Liderança bem-sucedida da organização como CEO",
+                "Coordenação de parcerias e gestão de crescimento da comunidade",
+                "Design e manutenção de sistemas usados por pilotos e staff",
+                "Liderança de eventos nacionais de simuladores assegurando conformidade de segurança e certificação"
+            ]
+        }
+    ],
+    "education": [{
+            "id": "cs50",
+            "title": "Ciência da Computação CS50",
+            "institution": "Universidade de Harvard",
+            "year": "2021",
+            "type": "certificação",
+            "icon": "/images/education/harvard.svg",
+            "certificate": "/images/education/computer-science-cS50.pdf"
+        },
+        {
+            "id": "english-advanced",
+            "title": "Curso de Inglês (Avançado)",
+            "institution": "Wall Street English",
+            "year": "2022-2024",
+            "type": "certificação",
+            "icon": "/images/education/wallstreet.svg"
+        }
+    ]
+}

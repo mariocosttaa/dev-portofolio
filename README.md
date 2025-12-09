@@ -1,73 +1,373 @@
-# Welcome to your Lovable project
+# 🚀 Mário Costa - Portfolio Website
 
-## Project info
+<div align="center">
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.4.19-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.17-38B2AC?logo=tailwind-css&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-25.7.2-26A69A?logo=i18next&logoColor=white)
 
-## How can I edit this code?
+**A modern, responsive portfolio website showcasing my work, skills, and experience as a Senior Backend & Fullstack Developer.**
 
-There are several ways of editing your application.
+[Features](#-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Usage](#-usage) • [Project Structure](#-project-structure)
 
-**Use Lovable**
+</div>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## ✨ Features
 
-**Use your preferred IDE**
+- 🌐 **Multilingual Support** - Full Portuguese and English translations
+- 🎨 **Modern UI/UX** - Beautiful, responsive design with dark/light theme toggle
+- 📱 **Fully Responsive** - Optimized for all devices (mobile, tablet, desktop)
+- 🚀 **Fast Performance** - Built with Vite for lightning-fast development and builds
+- 🎯 **Interactive Components** - Smooth animations and transitions
+- 📊 **Project Showcase** - Featured projects with filtering and search capabilities
+- 💼 **Experience Timeline** - Visual timeline of work experience and education
+- 🛠️ **Skills Display** - Comprehensive tech stack and expertise areas
+- 📄 **CV Preview** - Integrated CV viewer and download functionality
+- 🔍 **Detail Panels** - Expandable detail views for projects and experiences
+- 🎭 **Theme Switching** - Seamless dark/light mode with persistence
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
 
-Follow these steps:
+### Core Framework & Language
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) **React 18.3.1** - UI library
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) **TypeScript 5.8.3** - Type safety
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) **Vite 5.4.19** - Build tool & dev server
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Styling & UI
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) **TailwindCSS 3.4.17** - Utility-first CSS
+- ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?logo=shadcnui) **shadcn/ui** - High-quality component library
+- ![Radix UI](https://img.shields.io/badge/-Radix%20UI-161618?logo=radix-ui) **Radix UI** - Accessible component primitives
+- ![Lucide Icons](https://img.shields.io/badge/-Lucide-FF6B6B?logo=lucide) **Lucide React** - Icon library
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Routing & State Management
+- ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router) **React Router 6.30.1** - Client-side routing
+- ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react-query&logoColor=white) **TanStack Query 5.83.0** - Data fetching & caching
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Internationalization
+- ![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next) **i18next 25.7.2** - Internationalization framework
+- ![react-i18next](https://img.shields.io/badge/-react--i18next-26A69A?logo=react) **react-i18next 16.4.0** - React bindings for i18next
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### Forms & Validation
+- ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react-hook-form) **React Hook Form 7.61.1** - Form management
+- ![Zod](https://img.shields.io/badge/-Zod-3E63DD?logo=zod) **Zod 3.25.76** - Schema validation
+
+### Additional Libraries
+- ![Recharts](https://img.shields.io/badge/-Recharts-FF6384?logo=recharts) **Recharts 2.15.4** - Chart library
+- ![Sonner](https://img.shields.io/badge/-Sonner-000000) **Sonner 1.7.4** - Toast notifications
+- ![date-fns](https://img.shields.io/badge/-date--fns-FF6B6B) **date-fns 3.6.0** - Date utilities
+- ![next-themes](https://img.shields.io/badge/-next--themes-000000) **next-themes 0.3.0** - Theme management
+
+### Development Tools
+- ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint) **ESLint 9.32.0** - Code linting
+- ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?logo=postcss) **PostCSS 8.5.6** - CSS processing
+- ![Autoprefixer](https://img.shields.io/badge/-Autoprefixer-DD3735?logo=autoprefixer) **Autoprefixer 10.4.21** - CSS vendor prefixes
+
+---
+
+## 📦 Installation
+
+### Prerequisites
+
+Make sure you have the following installed:
+- **Node.js** (v18 or higher) - [Download](https://nodejs.org/)
+- **npm** or **bun** - Comes with Node.js
+
+### Setup Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/mariocosttaa/dev-portofolio.git
+   cd dev-portofolio
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   # or
+   bun install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   # or
+   bun dev
+   ```
+
+4. **Open your browser**
+   Navigate to `http://localhost:5173` (or the port shown in your terminal)
+
+---
+
+## 🚀 Usage
+
+### Development
+
+```bash
+# Start development server with hot reload
 npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+
+# Run linter
+npm run lint
 ```
 
-**Edit a file directly in GitHub**
+### Build Modes
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+# Production build (optimized)
+npm run build
 
-**Use GitHub Codespaces**
+# Development build (with source maps)
+npm run build:dev
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Environment Variables
 
-## What technologies are used for this project?
+Create a `.env` file in the root directory if needed:
 
-This project is built with:
+```env
+VITE_API_URL=your_api_url_here
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 📁 Project Structure
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+```
+mariocosttaa-portofolio/
+├── public/                 # Static assets
+│   ├── images/            # Project images and assets
+│   │   ├── projects/      # Project screenshots
+│   │   └── education/      # Education certificates
+│   ├── mario-costa.jpeg   # Profile image
+│   └── MARIO COSTA CV.pdf # CV document
+│
+├── src/
+│   ├── components/        # React components
+│   │   ├── ui/           # shadcn/ui components
+│   │   ├── About.tsx     # About section
+│   │   ├── Contact.tsx   # Contact section
+│   │   ├── FeaturedWork.tsx # Featured projects
+│   │   ├── Footer.tsx   # Footer component
+│   │   ├── Hero.tsx     # Hero section
+│   │   ├── Navbar.tsx   # Navigation bar
+│   │   ├── Skills.tsx   # Skills section
+│   │   └── ...
+│   │
+│   ├── contexts/         # React contexts
+│   │   ├── DetailPanelContext.tsx
+│   │   └── LanguageContext.tsx
+│   │
+│   ├── data/            # Data files (multilingual)
+│   │   ├── en/         # English data
+│   │   └── pt/         # Portuguese data
+│   │
+│   ├── hooks/           # Custom React hooks
+│   │   ├── useTheme.tsx
+│   │   ├── use-mobile.tsx
+│   │   └── use-toast.ts
+│   │
+│   ├── lib/            # Utility functions
+│   │   ├── api.ts     # Data API layer
+│   │   ├── detailData.ts # Detail data provider
+│   │   ├── i18n.ts    # i18n configuration
+│   │   └── utils.ts   # Utility functions
+│   │
+│   ├── locales/       # Translation files
+│   │   ├── en.json    # English translations
+│   │   └── pt.json    # Portuguese translations
+│   │
+│   ├── pages/         # Page components
+│   │   ├── Index.tsx  # Home page
+│   │   ├── Projects.tsx # Projects page
+│   │   └── NotFound.tsx # 404 page
+│   │
+│   ├── types/         # TypeScript types
+│   │   └── portfolio.ts
+│   │
+│   ├── App.tsx        # Main app component
+│   ├── main.tsx       # Application entry point
+│   └── index.css      # Global styles
+│
+├── .gitignore         # Git ignore rules
+├── components.json    # shadcn/ui configuration
+├── package.json       # Dependencies
+├── tailwind.config.ts # Tailwind configuration
+├── tsconfig.json      # TypeScript configuration
+└── vite.config.ts     # Vite configuration
+```
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 🌍 Multilingual Support
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+The portfolio supports two languages:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- 🇬🇧 **English (en)** - Default language
+- 🇵🇹 **Portuguese (pt)** - Full translation
+
+### Language Switching
+
+Users can switch languages using the language switcher in the navigation bar. The selected language is saved in localStorage and persists across sessions.
+
+### Adding New Languages
+
+1. Create a new translation file in `src/locales/` (e.g., `es.json` for Spanish)
+2. Add the language to `src/lib/i18n.ts`
+3. Update the language switcher component
+
+### Translation Structure
+
+Translations are organized by component/section:
+- `nav.*` - Navigation items
+- `hero.*` - Hero section
+- `about.*` - About section
+- `skills.*` - Skills section
+- `work.*` - Work/Projects section
+- `contact.*` - Contact section
+- `footer.*` - Footer
+- `projects.*` - Projects page
+- `notFound.*` - 404 page
+
+---
+
+## 🎨 Features in Detail
+
+### 🏠 Home Page
+- **Hero Section** - Introduction with profile image and key stats
+- **Tech Marquee** - Scrolling technology stack display
+- **Featured Work** - Showcase of featured projects
+- **About Section** - Personal story, experience timeline, and education
+- **Skills Section** - Technical skills organized by category
+- **Contact Section** - Contact methods and CV download
+
+### 📂 Projects Page
+- **Filtering** - Filter by technology or category (Commercial/Open Source)
+- **Search** - Search projects by name, description, or technology
+- **Project Cards** - Detailed project information with images
+- **Detail Views** - Expandable detail panels for each project
+
+### 🎭 Theme System
+- **Dark Mode** - Full dark theme support
+- **Light Mode** - Clean light theme
+- **Auto-persistence** - Theme preference saved in localStorage
+- **Smooth Transitions** - Seamless theme switching
+
+---
+
+## 📝 Data Management
+
+### Data Structure
+
+All content is stored in JSON files organized by language:
+- `personal.json` - Personal information
+- `projects.json` - Projects (featured & open source)
+- `experience.json` - Work experience & education
+- `skills.json` - Skills & expertise
+- `contact.json` - Contact information
+- `navigation.json` - Navigation links
+
+### Adding Content
+
+1. Edit the appropriate JSON file in `src/data/{lang}/`
+2. Follow the existing structure
+3. The changes will be reflected immediately
+
+---
+
+## 🚢 Deployment
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+This creates an optimized production build in the `dist/` directory.
+
+### Deploy to Vercel
+
+1. Push your code to GitHub
+2. Import the repository in [Vercel](https://vercel.com)
+3. Configure build settings:
+   - Build Command: `npm run build`
+   - Output Directory: `dist`
+4. Deploy!
+
+### Deploy to Netlify
+
+1. Push your code to GitHub
+2. Import the repository in [Netlify](https://netlify.com)
+3. Configure build settings:
+   - Build Command: `npm run build`
+   - Publish Directory: `dist`
+4. Deploy!
+
+### Other Platforms
+
+The built `dist/` folder can be deployed to any static hosting service:
+- GitHub Pages
+- Cloudflare Pages
+- AWS S3 + CloudFront
+- Any web server
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to contribute:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is private and proprietary. All rights reserved.
+
+---
+
+## 👨‍💻 Author
+
+**Mário Costa**
+
+- 🌐 Website: [Portfolio](https://your-portfolio-url.com)
+- 💼 LinkedIn: [mariocosttaa](https://linkedin.com/in/mariocosttaa)
+- 🐙 GitHub: [@mariocosttaa](https://github.com/mariocosttaa)
+- 📧 Email: mariocostaa6@gmail.com
+
+---
+
+## 🙏 Acknowledgments
+
+- [shadcn/ui](https://ui.shadcn.com/) - Beautiful component library
+- [Radix UI](https://www.radix-ui.com/) - Accessible component primitives
+- [TailwindCSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [i18next](https://www.i18next.com/) - Internationalization framework
+- [Lucide](https://lucide.dev/) - Beautiful icon library
+
+---
+
+<div align="center">
+
+**Built with ❤️ by Mário Costa**
+
+⭐ Star this repo if you find it helpful!
+
+</div>

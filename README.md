@@ -16,6 +16,18 @@
 
 ---
 
+## 🎬 Preview
+
+<div align="center">
+
+![Portfolio Preview](./presentation.gif)
+
+**Live Demo:** [View Portfolio](https://your-portfolio-url.com) *(Update with your actual URL)*
+
+</div>
+
+---
+
 ## ✨ Features
 
 - 🌐 **Multilingual Support** - Full Portuguese and English translations
@@ -67,6 +79,30 @@
 - ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint) **ESLint 9.32.0** - Code linting
 - ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?logo=postcss) **PostCSS 8.5.6** - CSS processing
 - ![Autoprefixer](https://img.shields.io/badge/-Autoprefixer-DD3735?logo=autoprefixer) **Autoprefixer 10.4.21** - CSS vendor prefixes
+
+---
+
+## 🎬 Preview
+
+<div align="center">
+
+![Portfolio Preview](./presentation.gif)
+
+**Live Demo:** [View Portfolio](https://your-portfolio-url.com) *(Update with your actual URL)*
+
+</div>
+
+---
+
+## 🎯 Key Highlights
+
+- ⚡ **Lightning Fast** - Optimized with Vite for instant HMR and fast builds
+- 🎨 **Beautiful Design** - Modern UI with smooth animations and transitions
+- 📱 **Mobile First** - Fully responsive design that works on all devices
+- 🌍 **i18n Ready** - Built-in support for multiple languages
+- ♿ **Accessible** - WCAG compliant components from Radix UI
+- 🔒 **Type Safe** - Full TypeScript coverage for better DX
+- 🚀 **Production Ready** - Optimized builds with code splitting
 
 ---
 
@@ -243,6 +279,27 @@ Translations are organized by component/section:
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+- Hero section with profile and key statistics
+- Featured projects showcase
+- Experience timeline
+- Skills and expertise display
+
+### Projects Page
+- Advanced filtering by technology
+- Search functionality
+- Project cards with images
+- Detail panels for expanded information
+
+### Dark/Light Theme
+- Seamless theme switching
+- Persistent theme preference
+- Smooth transitions
+
+---
+
 ## 🎨 Features in Detail
 
 ### 🏠 Home Page
@@ -272,18 +329,27 @@ Translations are organized by component/section:
 ### Data Structure
 
 All content is stored in JSON files organized by language:
-- `personal.json` - Personal information
-- `projects.json` - Projects (featured & open source)
-- `experience.json` - Work experience & education
-- `skills.json` - Skills & expertise
-- `contact.json` - Contact information
-- `navigation.json` - Navigation links
+- 📄 `personal.json` - Personal information (name, title, description, stats)
+- 🚀 `projects.json` - Projects (featured & open source)
+- 💼 `experience.json` - Work experience & education
+- 🛠️ `skills.json` - Skills & expertise categories
+- 📧 `contact.json` - Contact information and methods
+- 🧭 `navigation.json` - Navigation links
 
 ### Adding Content
 
 1. Edit the appropriate JSON file in `src/data/{lang}/`
-2. Follow the existing structure
-3. The changes will be reflected immediately
+2. Follow the existing structure (see `DATA_STRUCTURE.md` for details)
+3. The changes will be reflected immediately in development mode
+4. For production, rebuild the application
+
+### Multilingual Data
+
+Each language has its own data directory:
+- `src/data/en/` - English content
+- `src/data/pt/` - Portuguese content
+
+This allows for complete localization of all content, not just UI strings.
 
 ---
 
@@ -292,10 +358,24 @@ All content is stored in JSON files organized by language:
 ### Build for Production
 
 ```bash
+# Create optimized production build
 npm run build
+
+# The build output will be in the dist/ directory
 ```
 
-This creates an optimized production build in the `dist/` directory.
+**Build Output:**
+- ✅ Optimized and minified JavaScript
+- ✅ Compressed CSS with Tailwind purging
+- ✅ Optimized assets and images
+- ✅ Production-ready HTML
+
+### Performance Tips
+
+- The build includes automatic code splitting
+- Assets are optimized for production
+- Consider enabling compression on your hosting provider
+- Use a CDN for faster global delivery
 
 ### Deploy to Vercel
 

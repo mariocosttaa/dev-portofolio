@@ -1,0 +1,224 @@
+{
+    "about": {
+        "intro": "Senior Backend & Fullstack Developer with over 6 years of experience delivering custom digital solutions for businesses. I entered the tech world young out of curiosity and a drive to understand how things work—and how to make them better.",
+        "specialization": "I specialize in building CRMs, ERPs, SaaS platforms, APIs, dashboards, landing pages, and workflow automations that streamline operations and increase team efficiency.",
+        "journey": "I stay current with modern engineering practices, continuously testing new tools and technologies to deliver scalable, reliable, and high-performance solutions. My journey includes founding Bindamy Solutions, where I've built and launched multiple SaaS products and automation tools powering real businesses."
+    },
+    "work": [{
+            "id": "bindamy-solutions",
+            "title": "Founder & CEO / Lead Software Architect",
+            "company": "Bindamy Solutions",
+            "period": "2024 - Present",
+            "highlights": ["Multiple SaaS products", "Workflow engines", "AI integrations", "Microservices", "Multi-tenancy", "Subscription systems"],
+            "longDescription": "Bindamy Solutions is a digital solutions company that crafts digital experiences to drive business growth. The company offers enterprise-grade websites, applications, and automation systems, partnering with ambitious companies to build technology that scales. The landing page showcases the company's services, portfolio, technologies, and partner ecosystem. Built with React 19.2.1, TypeScript 5.8.3, Vite 5.4.19, TailwindCSS 3.4.17, shadcn/ui components, i18next for internationalization (English/Portuguese), React Query for state management, and React Router for navigation. The website features multi-language support with automatic language detection, fully responsive mobile-first design, modern UI components built with shadcn/ui and Radix UI primitives, contact forms with validation using React Hook Form and Zod, WhatsApp integration for quick contact, portfolio showcase displaying client projects, partner/trusted by section, services showcase (Web Development, System Architecture, Automation, Digital Strategy), and comprehensive company information. The company has delivered 150+ projects with 98% client satisfaction, serving 50+ enterprise clients with 5+ years of excellence.",
+            "role": "Founder, CEO & Lead Developer",
+            "responsibilities": [
+                "Designed and developed complete company landing page with React 19 and TypeScript",
+                "Implemented multi-language support with i18next (English and Portuguese)",
+                "Built responsive UI with TailwindCSS and shadcn/ui component library",
+                "Created contact form system with React Hook Form and Zod validation",
+                "Integrated WhatsApp floating button for quick customer contact",
+                "Developed portfolio showcase section displaying company projects",
+                "Built partner/trusted by section with technology and client logos",
+                "Implemented services section showcasing company offerings",
+                "Created about section highlighting company values and approach",
+                "Set up React Query for efficient data management",
+                "Configured Vite build system for optimal performance",
+                "Implemented SEO-friendly structure with proper meta tags",
+                "Added smooth animations and transitions with TailwindCSS",
+                "Ensured accessibility and responsive design across all devices"
+            ],
+            "achievements": [
+                "Modern, professional landing page showcasing Bindamy Solutions as a digital solutions company",
+                "Multi-language support enabling the company to serve international clients",
+                "Fully responsive design ensuring excellent user experience on all devices",
+                "Comprehensive portfolio showcase displaying 150+ projects delivered",
+                "Contact system with form validation and WhatsApp integration for lead generation",
+                "Professional presentation of company services, technologies, and partners",
+                "Fast performance with Vite build system and React 19 optimizations",
+                "SEO-friendly implementation for better search engine visibility",
+                "Modern tech stack demonstrating company's technical expertise",
+                "Production-ready website deployed at bindamy.site"
+            ],
+            "challenges": [
+                "Creating a landing page that effectively communicates company value proposition and services",
+                "Implementing multi-language support with automatic detection and seamless switching",
+                "Building responsive design that works perfectly on mobile, tablet, and desktop",
+                "Integrating multiple third-party services (WhatsApp, contact forms, analytics)",
+                "Showcasing portfolio projects dynamically while maintaining performance",
+                "Designing UI that reflects company professionalism and technical expertise",
+                "Ensuring fast load times with modern build tools and optimization",
+                "Creating accessible components that work for all users",
+                "Managing content through JSON files for easy updates",
+                "Balancing design aesthetics with functional requirements"
+            ],
+            "results": [
+                "Professional landing page successfully representing Bindamy Solutions as a digital solutions company",
+                "Multi-language website enabling company to serve English and Portuguese-speaking markets",
+                "Responsive design ensuring excellent user experience across all devices and screen sizes",
+                "Effective lead generation through contact forms and WhatsApp integration",
+                "Comprehensive portfolio showcase demonstrating company's capabilities and track record",
+                "Modern tech stack showcasing company's technical expertise to potential clients",
+                "Fast, optimized website providing excellent performance and user experience",
+                "SEO-friendly implementation improving online visibility and discoverability",
+                "Production-ready website deployed and serving as company's primary online presence",
+                "Professional presentation of company services, technologies, partners, and achievements"
+            ]
+        },
+        {
+            "id": "horariux",
+            "title": "Senior Fullstack Developer / SaaS Architect",
+            "company": "Horariux",
+            "period": "Aug 2022 - Dec 2024",
+            "highlights": ["Large-scale SaaS", "WhatsApp integrations", "Payment gateways", "Real-time booking", "Laravel", "Livewire"],
+            "longDescription": "Led the architecture of a large-scale appointment-automation SaaS serving restaurants, salons, and service companies. Developed core business modules using Laravel, Blade, Alpine.js, Livewire, and Javascript with Docker. Built real-time booking, messaging automations, and official integrations with WhatsApp Non Official API, and multiple payment gateways.",
+            "role": "Senior Fullstack Developer / SaaS Architect",
+            "responsibilities": [
+                "Led the architecture of large-scale appointment-automation SaaS",
+                "Developed core business modules using Laravel, Blade, Alpine.js, Livewire, and Javascript",
+                "Built real-time booking and messaging automations",
+                "Implemented official integrations with WhatsApp Non Official API",
+                "Integrated multiple payment gateways",
+                "Managed Docker-based infrastructure and deployment"
+            ],
+            "achievements": [
+                "Successfully architected and delivered large-scale SaaS platform",
+                "Built comprehensive appointment automation system",
+                "Integrated multiple payment gateways for seamless transactions",
+                "Developed real-time booking and messaging systems"
+            ],
+            "challenges": [
+                "Scaling architecture to serve restaurants, salons, and service companies",
+                "Managing real-time booking and messaging automations",
+                "Integrating with WhatsApp Non Official API reliably",
+                "Handling multiple payment gateway integrations"
+            ],
+            "results": [
+                "Large-scale SaaS platform successfully serving multiple business types",
+                "Real-time booking and messaging automations improving customer experience",
+                "Multiple payment gateway integrations enabling flexible payment options",
+                "Docker-based infrastructure ensuring scalable and reliable deployment"
+            ]
+        },
+        {
+            "id": "mingaxi",
+            "title": "Senior Backend Developer → Lead Fullstack Engineer",
+            "company": "Mingaxi Group",
+            "period": "Jan 2019 - Jul 2022",
+            "highlights": ["Team leadership", "System architecture", "DevOps", "Hotel systems", "Finance systems", "Ruby on Rails"],
+            "longDescription": "Developed hotel, finance, and automation systems using Laravel, Ruby on Rails, and optimized SQL/Redis-based operations. Architected APIs, dashboards, and automation workflows that improved internal operational efficiency. Led a small development team, introduced modern coding standards, and improved system performance through Docker and queue architecture.",
+            "role": "Senior Backend Developer → Lead Fullstack Engineer",
+            "responsibilities": [
+                "Developed hotel, finance, and automation systems using Laravel and Ruby on Rails",
+                "Optimized SQL/Redis-based operations for better performance",
+                "Architected APIs, dashboards, and automation workflows",
+                "Led a small development team",
+                "Introduced modern coding standards",
+                "Improved system performance through Docker and queue architecture"
+            ],
+            "achievements": [
+                "Successfully developed hotel, finance, and automation systems",
+                "Improved internal operational efficiency through automation workflows",
+                "Introduced modern coding standards to the team",
+                "Improved system performance with Docker and queue architecture"
+            ],
+            "challenges": [
+                "Managing multiple systems (hotel, finance, automation) simultaneously",
+                "Optimizing SQL/Redis-based operations for performance",
+                "Leading team while maintaining code quality",
+                "Balancing feature development with system optimization"
+            ],
+            "results": [
+                "Improved internal operational efficiency through automation",
+                "Established modern coding standards and best practices",
+                "Enhanced system performance with Docker and queue architecture",
+                "Successfully delivered hotel, finance, and automation systems"
+            ]
+        },
+        {
+            "id": "vandervaart",
+            "title": "Fullstack Developer (Remote)",
+            "company": "Vandervaart",
+            "period": "Jan 2019 - Mar 2020",
+            "highlights": ["International team", "Agile/Scrum", "Ruby on Rails", "React", "Python automation"],
+            "longDescription": "Worked as Fullstack Developer (Remote) in an international team based in Amsterdam, Netherlands. Delivered internal automation tools, dashboards, and fullstack features using Ruby on Rails and React, also with Python for automated scripts. Collaborated with international teams under Agile/Scrum practices, improving delivery speed and code quality.",
+            "role": "Fullstack Developer (Remote)",
+            "responsibilities": [
+                "Delivered internal automation tools, dashboards, and fullstack features using Ruby on Rails and React",
+                "Developed Python scripts for automation tasks",
+                "Collaborated with international teams under Agile/Scrum practices",
+                "Optimized backend and frontend pipelines",
+                "Enhanced load times and user experience for client-facing applications"
+            ],
+            "achievements": [
+                "Improved delivery speed and code quality",
+                "Enhanced load times and user experience",
+                "Successfully delivered automation tools and dashboards"
+            ],
+            "challenges": [
+                "Working across different time zones with international team",
+                "Optimizing performance for client-facing applications",
+                "Balancing multiple technologies (Ruby on Rails, React, Python)"
+            ],
+            "results": [
+                "Successfully integrated into international team",
+                "Delivered quality code consistently",
+                "Gained valuable experience in remote collaboration"
+            ]
+        },
+        {
+            "id": "avagroup",
+            "title": "Fullstack Developer (Remote)",
+            "company": "AVAGroup",
+            "period": "Jan 2018",
+            "highlights": ["Team leadership", "Event management", "Platform development", "Non-profit organization"],
+            "longDescription": "Progressed from simple member to Developer and eventually CEO, leading teams, operations, partner relations, and community growth within the organization. Designed and maintained internal platforms, event management systems, and simulation-related tools used by pilots and staff. Led national simulator events, ensured compliance with safety and certification standards, and coordinated partnerships with organizations including TAAG Virtual.",
+            "role": "Fullstack Developer (Remote)",
+            "responsibilities": [
+                "Progressed from member to Developer and eventually CEO",
+                "Led teams, operations, partner relations, and community growth",
+                "Designed and maintained internal platforms and event management systems",
+                "Developed simulation-related tools used by pilots and staff",
+                "Led national simulator events",
+                "Ensured compliance with safety and certification standards",
+                "Coordinated partnerships with organizations including TAAG Virtual"
+            ],
+            "achievements": [
+                "Successfully progressed from member to CEO within the organization",
+                "Led national simulator events",
+                "Designed and maintained internal platforms and event management systems",
+                "Coordinated partnerships with organizations including TAAG Virtual"
+            ],
+            "challenges": [
+                "Leading teams and operations as CEO of non-profit organization",
+                "Ensuring compliance with safety and certification standards",
+                "Coordinating partnerships and managing community growth",
+                "Designing and maintaining multiple systems (platforms, event management, simulation tools)"
+            ],
+            "results": [
+                "Successfully led organization as CEO",
+                "Coordinated partnerships and managed community growth",
+                "Designed and maintained systems used by pilots and staff",
+                "Led national simulator events ensuring safety and certification compliance"
+            ]
+        }
+    ],
+    "education": [{
+            "id": "cs50",
+            "title": "Computer Science CS50",
+            "institution": "Harvard University",
+            "year": "2021",
+            "type": "certification",
+            "icon": "/images/education/harvard.svg",
+            "certificate": "/images/education/computer-science-cS50.pdf"
+        },
+        {
+            "id": "english-advanced",
+            "title": "English Course (Advanced)",
+            "institution": "Wall Street English",
+            "year": "2022-2024",
+            "type": "certification",
+            "icon": "/images/education/wallstreet.svg"
+        }
+    ]
+}

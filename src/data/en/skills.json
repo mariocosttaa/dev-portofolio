@@ -1,0 +1,96 @@
+{
+    "categories": [{
+            "id": "languages",
+            "icon": "Code",
+            "title": "Languages",
+            "color": "primary",
+            "skills": ["PHP", "Python", "Ruby", "JavaScript", "TypeScript", "SQL"]
+        },
+        {
+            "id": "frameworks",
+            "icon": "Layers",
+            "title": "Frameworks",
+            "color": "secondary",
+            "skills": ["Laravel", "Ruby on Rails", "React Native", "Livewire", "FastAPI", "React", "Inertia.js", "LangChain", "Vue.js", "Django", "Alpine.js", "TailwindCSS", "shadcn"]
+        },
+        {
+            "id": "databases",
+            "icon": "Database",
+            "title": "Databases",
+            "color": "accent",
+            "skills": ["SQLite", "PostgreSQL", "MySQL", "Supabase"]
+        },
+        {
+            "id": "infrastructure",
+            "icon": "Cloud",
+            "title": "Infrastructure & Cloud",
+            "color": "primary",
+            "skills": ["Coolify", "cPanel", "Vercel", "Laravel Cloud"]
+        },
+        {
+            "id": "api-architecture",
+            "icon": "Cpu",
+            "title": "API & Architecture",
+            "color": "secondary",
+            "skills": ["SaaS Architecture", "Multi-Tenant", "Microservices", "REST API", "RESTful API", "GraphQL API"]
+        },
+        {
+            "id": "tools-integrations",
+            "icon": "Wrench",
+            "title": "Tools & Knowledge",
+            "color": "accent",
+            "skills": ["Docker", "WebSockets", "Laravel Cloud", "API Integration", "CI/CD", "GitHub & Git", "Project Design & Architecture", "MCP", "Stripe Payment Gateway", "UI/UX", "Subscription Implementation"]
+        },
+        {
+            "id": "others",
+            "icon": "Package",
+            "title": "Others",
+            "color": "primary",
+            "skills": ["N8N", "WordPress"]
+        }
+    ],
+    "expertise": [
+        "SaaS Development",
+        "Payment Systems",
+        "Automation",
+        "Team Leadership",
+        "System Architecture",
+        "UI/UX",
+        "Real-time Apps"
+    ],
+    "technologies": [
+        "Laravel",
+        "PHP",
+        "Python",
+        "Ruby",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "React",
+        "React Native",
+        "Vue.js",
+        "Ruby on Rails",
+        "FastAPI",
+        "Django",
+        "Livewire",
+        "Inertia.js",
+        "Alpine.js",
+        "TailwindCSS",
+        "shadcn",
+        "LangChain",
+        "Docker",
+        "PostgreSQL",
+        "MySQL",
+        "SQLite",
+        "Supabase",
+        "Redis",
+        "GraphQL",
+        "REST API",
+        "Stripe",
+        "WhatsApp API",
+        "N8N",
+        "Vercel",
+        "Coolify",
+        "WordPress"
+    ]
+}

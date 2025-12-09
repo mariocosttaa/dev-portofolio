@@ -1,0 +1,28 @@
+{
+    "links": [
+        {
+            "name": "Trabalho",
+            "href": "#work"
+        },
+        {
+            "name": "Projetos",
+            "href": "/projects"
+        },
+        {
+            "name": "Sobre",
+            "href": "#about"
+        },
+        {
+            "name": "Educação",
+            "href": "#education"
+        },
+        {
+            "name": "Competências",
+            "href": "#skills"
+        },
+        {
+            "name": "Contacto",
+            "href": "#contact"
+        }
+    ]
+}
